@@ -13,3 +13,10 @@ h1 {
 h3 {
     text-align: center;
 }
+.belso {
+    width: 100%;
+    padding-left:50px;
+}
+* {
+    box-sizing: border-box;
+}
